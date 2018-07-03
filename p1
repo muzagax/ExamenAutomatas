@@ -1,0 +1,27 @@
+entero: y,x= 2+5;
+entero: yw;
+entero: num = yw;
+hilera: input = "hola";
+vacio fun entero p:
+	p = 2*2;
+    si(p mayor_que x):
+        imprimir x;
+    ;
+yw = 0;
+    mientras(p menor_que y):
+        aux = p;
+        p = y;
+        y = x;
+        
+        si(x igual_a 0):
+            entero: pr = 0;
+        ;pero si (x diferente_a p):
+    
+                    imprimir p;
+        ;
+    ;
+;
+
+vacio principal entero p:
+;
+Iniciar principal y;
